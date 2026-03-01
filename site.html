@@ -48,4 +48,116 @@
             width: 130px;
             height: 130px;
             border-radius: 50%;
-            object
+            object-fit: cover;
+            border: 3px solid #00d2ff;
+            margin-bottom: 15px;
+            box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);
+        }
+
+        h1 {
+            font-size: 26px;
+            margin: 5px 0;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .badge {
+            background-color: #00d2ff;
+            color: #000;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .bio-text {
+            color: #ccc;
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        .welcome-msg {
+            color: #fff;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .btn {
+            background: linear-gradient(90deg, #1a1a1a, #2a2a2a);
+            color: white;
+            text-decoration: none;
+            padding: 16px;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: 0.3s;
+            border: 1px solid #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .btn:hover {
+            background: #00d2ff;
+            color: #000;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 210, 255, 0.3);
+        }
+
+        i { font-size: 18px; }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="can.jpg" alt="Murat Can" class="profile-img">
+
+        <h1>Murat Can</h1>
+        <div class="badge">Software Developer</div>
+
+        <div class="bio-text">
+            <span class="welcome-msg"> Merhaba, Hoş Geldin! </span>
+            "Siyah ekrandaki beyaz kodların arkasındaki hikaye. 
+            Yazılım mimarisi ve arayüz tasarımı üzerine çalışıyor,  
+            dijital dünyada kalıcı izler bırakıyorum." <br>
+            İletişim Adreslerim; 👇🏻
+        </div>
+
+        <div style="font-size: 14px; color: #00d2ff; font-style: italic; margin-bottom: 15px; font-weight: 600;">
+            "Sessizce kodluyor, geleceği inşa ediyor.."
+        </div>
+        
+        <div class="links">
+            <a href="https://instagram.com/murratcan0_" target="_blank" class="btn">
+                <i class="fab fa-instagram"></i> Instagram
+            </a>
+            
+            <a href="https://github.com/canmuratt-hub" target="_blank" class="btn">
+                <i class="fab fa-github"></i> GitHub Projelerim
+            </a>
+
+            <a href="https://linkedin.com/in/muratcan-kucukkilic" target="_blank" class="btn">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+
+            <a href="mailto:muratcankucukkilic@gmail.com" class="btn">
+                <i class="fas fa-envelope"></i> Bana Mail At
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
