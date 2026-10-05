@@ -1,8 +1,8 @@
-# Murat Can KÜÇÜKKILIÇ — Kişisel Portföy & Web Deneyimi
+— Kişisel Portföy & Web Deneyimi
 
-> **Canlı Web Sitesi:** [https://muratcankucukkilic.com.tr](https://muratcankucukkilic.com.tr)
+> Canlı Web Sitesi: [https://muratcankucukkilic.com.tr](https://muratcankucukkilic.com.tr)
 
-Merhaba, ben Murat Can.
+Selamm, ben Murat Can.
 
 Bu projeyi hayata geçirirken tek bir temel amacım vardı: Her yerde karşımıza çıkan sıradan, birbirinin kopyası hazır şablon sitelerden uzak durmak. Yazılım, yapay zeka ve web teknolojileriyle ilgilenen biri olarak; sadece "ben şunları biliyorum" diye maddeler sıralamak yerine, vizyonumu doğrudan hissettiren, tasarımından kod yapısına kadar her köşesinde emek olan yaşayan bir dijital kimlik oluşturmak istedim.
 
@@ -22,22 +22,6 @@ Bu projeyi hayata geçirirken tek bir temel amacım vardı: Her yerde karşımı
 - **3D Grafik & Hareket:** Three.js (WebGL), Framer Motion
 - **Sunucu & Dağıtım:** Cloudflare Pages, Edge CDN
 - **Güvenlik & Standartlar:** OWASP Hardening, RFC 9116 (`security.txt`), JSON-LD Schema
-
----
-
-### Projeyi Bilgisayarınızda Çalıştırma
-
-Projeyi yerel ortamınızda incelemek veya çalıştırmak isterseniz:
-
-```bash
-# 1. Bağımlılıkları yükleyin
-npm install
-
-# 2. Geliştirme sunucusunu başlatın
-npm run dev
-```
-
-Tarayıcınızda `http://localhost:3000` adresinden açabilirsiniz.
 
 ---
 
