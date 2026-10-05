@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Koyu Arka Plan Kutusu -->
+  <rect width="100" height="100" rx="24" fill="#0a0d18"/>
+  
+  <!-- Siber Neon Çerçeve -->
+  <rect x="2.5" y="2.5" width="95" height="95" rx="21.5" stroke="url(#mck_border)" stroke-width="3"/>
+  
+  <!-- 'M' Harfi Geometrisi -->
+  <path d="M22 72V28L42 50L60 28V72" stroke="url(#mck_m_gradient)" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 'C' & 'K' Siber Vurgusu -->
+  <path d="M72 36C67 36 63 41 63 50C63 59 67 64 72 64C76 64 80 60 80 56" stroke="#00f2fe" stroke-width="6.5" stroke-linecap="round"/>
+  
+  <!-- Lazer Enerji Noktası -->
+  <circle cx="80" cy="36" r="4" fill="#38bdf8"/>
+
+  <defs>
+    <!-- M Harfi Parlayan Degrade -->
+    <linearGradient id="mck_m_gradient" x1="22" y1="28" x2="60" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#00f2fe"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    
+    <!-- Çerçeve Neon Işık Degradesi -->
+    <linearGradient id="mck_border" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00f2fe"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+</svg>

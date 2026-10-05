@@ -1,0 +1,11 @@
+# ==============================================================================
+# 🛡️ SECURITY.TXT (RFC 9116 Standartı)
+# Murat Can KÜÇÜKKILIÇ Siber Güvenlik ve Güvenlik Açığı Bildirim Protokolü
+# ==============================================================================
+
+Contact: mailto:muratcankucukkilic@gmail.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: tr, en
+Canonical: https://muratcankucukkilic.com.tr/.well-known/security.txt
+Policy: https://muratcankucukkilic.com.tr/security-policy
+Acknowledgments: https://github.com/canmuratt-hub

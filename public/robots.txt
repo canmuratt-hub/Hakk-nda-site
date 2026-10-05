@@ -1,0 +1,56 @@
+# ==============================================================================
+# 🛡️ ROBOTS.TXT // MURAT CAN KÜÇÜKKILIÇ PORTFÖYÜ
+# Standart Arama Motorlarına İzin Verilir, Yetkisiz Yapay Zeka Kazıyıcıları Engellenir
+# ==============================================================================
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# 🛑 YETKİSİZ YAPAY ZEKA MODEL EĞİTİMİ VE VERİ MADENCİLİĞİ BOTLARI (ENGEL)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# Genel Varsayılan Kural
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.well-known/
+
+# Güvenlik & İletişim Bildirimi
+# RFC 9116: /.well-known/security.txt
+
+# 🗺️ Site Haritası (Google Bot Doğrudan İndeksleme)
+Sitemap: https://muratcankucukkilic.com.tr/sitemap.xml

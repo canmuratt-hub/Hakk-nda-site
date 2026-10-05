@@ -1,0 +1,50 @@
+# Murat Can KÜÇÜKKILIÇ — Kişisel Portföy & Web Deneyimi
+
+> **Canlı Web Sitesi:** [https://muratcankucukkilic.com.tr](https://muratcankucukkilic.com.tr)
+
+Merhaba, ben Murat Can.
+
+Bu projeyi hayata geçirirken tek bir temel amacım vardı: Her yerde karşımıza çıkan sıradan, birbirinin kopyası hazır şablon sitelerden uzak durmak. Yazılım, yapay zeka ve web teknolojileriyle ilgilenen biri olarak; sadece "ben şunları biliyorum" diye maddeler sıralamak yerine, vizyonumu doğrudan hissettiren, tasarımından kod yapısına kadar her köşesinde emek olan yaşayan bir dijital kimlik oluşturmak istedim.
+
+Sitede neler bulabilirsiniz?
+- 3D Uzay & Galaksi Deneyimi (Three.js & WebGL)
+- Öne Çıkan Mühendislik Projelerim (RAG Yapay Zeka, QR Menü SaaS, Finansal Otopilot)
+- Kesintisiz Canlı İletişim Konsolu & WhatsApp Entegrasyonu
+- Çok Katmanlı Siber Güvenlik Kalkanı (Honeypot, Rate Limiting, OWASP)
+- Semantik Google SEO & Kişisel Kimlik Kartı (JSON-LD)
+
+---
+
+### Kullanılan Teknolojiler
+
+- **Arayüz & Çekirdek:** React 18, Vite, Tailwind CSS
+- **3D Grafik & Hareket:** Three.js (WebGL), Framer Motion
+- **Sunucu & Dağıtım:** Cloudflare Pages, Edge CDN
+- **Güvenlik & Standartlar:** OWASP Hardening, RFC 9116 (`security.txt`), JSON-LD Schema
+
+---
+
+### Projeyi Bilgisayarınızda Çalıştırma
+
+Projeyi yerel ortamınızda incelemek veya çalıştırmak isterseniz:
+
+```bash
+# 1. Bağımlılıkları yükleyin
+npm install
+
+# 2. Geliştirme sunucusunu başlatın
+npm run dev
+```
+
+Tarayıcınızda `http://localhost:3000` adresinden açabilirsiniz.
+
+---
+
+### Bana Ulaşın
+
+Yeni bir proje fikri konuşmak, birlikte çalışmak ya da sadece yazılım üzerine sohbet etmek isterseniz bana dilediğiniz kanaldan ulaşabilirsiniz:
+
+- **Web Sitesi:** [muratcankucukkilic.com.tr](https://muratcankucukkilic.com.tr)
+- **LinkedIn:** [Murat Can Küçükkılıç](https://www.linkedin.com/in/murat-can-küçükkılıç-718694387)
+- **GitHub:** [@canmuratt-hub](https://github.com/canmuratt-hub)
+- **E-posta:** muratcankucukkilic@gmail.com
