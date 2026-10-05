@@ -6,12 +6,13 @@ Merhaba, ben Murat Can.
 
 Bu projeyi hayata geçirirken tek bir temel amacım vardı: Her yerde karşımıza çıkan sıradan, birbirinin kopyası hazır şablon sitelerden uzak durmak. Yazılım, yapay zeka ve web teknolojileriyle ilgilenen biri olarak; sadece "ben şunları biliyorum" diye maddeler sıralamak yerine, vizyonumu doğrudan hissettiren, tasarımından kod yapısına kadar her köşesinde emek olan yaşayan bir dijital kimlik oluşturmak istedim.
 
-Sitede neler bulabilirsiniz?
-- 3D Uzay & Galaksi Deneyimi (Three.js & WebGL)
-- Öne Çıkan Mühendislik Projelerim (RAG Yapay Zeka, QR Menü SaaS, Finansal Otopilot)
-- Kesintisiz Canlı İletişim Konsolu & WhatsApp Entegrasyonu
-- Çok Katmanlı Siber Güvenlik Kalkanı (Honeypot, Rate Limiting, OWASP)
-- Semantik Google SEO & Kişisel Kimlik Kartı (JSON-LD)
+### Sitede Neler Bulabilirsiniz?
+
+- 3D Uzay ve Galaksi Deneyimi
+- Projelerim
+- Canlı İletişim Konsolu & WhatsApp
+- Siber Güvenlik Altyapısı
+- Dijital Kimlik Kartı ve SEO
 
 ---
 
